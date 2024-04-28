@@ -5,8 +5,8 @@
   "homepage": "https://zabdalimov.github.io/win98",
   "repository": "https://github.com/zabdalimov/win98",
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
+    "start": "yarn start",
+    "build": "yarn build",
     "test": "react-scripts test --passWithNoTests",
     "lint": "eslint src --ext .ts,.tsx",
     "lint:fix": "yarn lint --fix",
